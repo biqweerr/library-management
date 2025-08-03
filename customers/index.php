@@ -170,7 +170,7 @@ $customers = $stmt->fetchAll();
                     <h1 class="h2">Customers</h1>
                     <div class="btn-toolbar mb-2 mb-md-0">
                         <a href="add.php" class="btn btn-primary">
-                            <i class="fas fa-plus me-2"></i>Add New Customer
+                            <i class="fas fa-plus me-2"></i>Add New Customers
                         </a>
                     </div>
                 </div>
